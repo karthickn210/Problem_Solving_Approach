@@ -1,0 +1,19 @@
+problem statement (why,how) !**
+null/alternate Hypothises def (H0/Ha)
+data identification !**
+data gathering/data import !**
+data cleansing !**
+significance analysis
+descriptive analysis
+training ,testing and validation data set creation
+train model creation
+training model analysis
+test model creation
+test model analysis
+validation dataset processing
+prediction validation
+ranking
+data export !**
+reporting/representation !**
+model rebuiding
+model version control 
